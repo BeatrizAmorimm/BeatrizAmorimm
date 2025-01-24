@@ -21,8 +21,7 @@
   <img align="center" alt="Beah-HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Beah-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Beah-React" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Beah-Angular" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">  
-  <img align="center" alt="Beah-Dart" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">     
+  <img align="center" alt="Beah-Angular" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/angular-original.svg">      
 
 </div>
 
